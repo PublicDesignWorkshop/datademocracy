@@ -1,2 +1,2 @@
-# datademocracy
+# Datademocracy
 Codebase for data democracy website

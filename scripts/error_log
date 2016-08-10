@@ -1,0 +1,421 @@
+[26-Oct-2014 16:52:12] PHP Parse error:  syntax error, unexpected $end in /home4/tom/public_html/data/scripts/tweet_finder.php on line 129
+[26-Oct-2014 16:52:26] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/tom/public_html/data/scripts/tweet_finder.php on line 127
+[26-Oct-2014 16:52:43] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/tom/public_html/data/scripts/tweet_finder.php on line 127
+[26-Oct-2014 16:55:05] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/tom/public_html/data/scripts/tweet_finder.php on line 43
+[26-Oct-2014 16:56:16] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 28
+[26-Oct-2014 16:56:29] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/tom/public_html/data/scripts/tweet_finder.php on line 43
+[26-Oct-2014 16:56:29] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 27
+[26-Oct-2014 16:56:29] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home4/tom/public_html/data/scripts/tweet_finder.php on line 43
+[26-Oct-2014 17:00:28] PHP Fatal error:  Call to undefined function  unixdate() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[27-Oct-2014 08:54:45] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/tom/public_html/data/scripts/tweet_finder.php on line 16
+[27-Oct-2014 08:55:28] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 85
+[27-Oct-2014 08:55:41] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 08:56:04] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 08:58:40] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 08:59:49] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 08:59:56] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 09:00:00] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 09:01:20] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 09:02:16] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 66
+[27-Oct-2014 09:09:12] PHP Parse error:  syntax error, unexpected '>' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 80
+[27-Oct-2014 09:13:10] PHP Fatal error:  Call to undefined function  float() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 64
+[27-Oct-2014 11:23:13] PHP Parse error:  syntax error, unexpected ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 70
+[27-Oct-2014 12:21:54] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 51
+[27-Oct-2014 13:49:50] PHP Parse error:  syntax error, unexpected T_STRING in /home4/tom/public_html/data/scripts/tweet_finder.php on line 62
+[27-Oct-2014 13:49:52] PHP Parse error:  syntax error, unexpected T_STRING in /home4/tom/public_html/data/scripts/tweet_finder.php on line 62
+[27-Oct-2014 13:50:02] PHP Parse error:  syntax error, unexpected T_STRING in /home4/tom/public_html/data/scripts/tweet_finder.php on line 62
+[27-Oct-2014 13:54:20] PHP Warning:  include(get_date_from_tweet.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/tom/public_html/data/scripts/tweet_finder.php on line 12
+[27-Oct-2014 13:54:20] PHP Warning:  include(get_date_from_tweet.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/tom/public_html/data/scripts/tweet_finder.php on line 12
+[27-Oct-2014 13:54:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'get_date_from_tweet.php' for inclusion (include_path='.:/opt/php52/lib/php') in /home4/tom/public_html/data/scripts/tweet_finder.php on line 12
+[27-Oct-2014 13:54:23] PHP Fatal error:  Call to undefined function  unixtime() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 61
+[27-Oct-2014 13:54:42] PHP Fatal error:  Call to undefined function  unixtime() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 61
+[27-Oct-2014 16:02:31] PHP Parse error:  syntax error, unexpected ')' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 59
+[27-Oct-2014 19:45:13] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 131
+[27-Oct-2014 19:45:17] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 131
+[27-Oct-2014 19:54:48] PHP Parse error:  syntax error, unexpected '{' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 70
+[27-Oct-2014 19:54:57] PHP Parse error:  syntax error, unexpected '{' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 70
+[27-Oct-2014 19:55:00] PHP Parse error:  syntax error, unexpected '{' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 70
+[27-Oct-2014 19:55:14] PHP Parse error:  syntax error, unexpected '[' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[27-Oct-2014 19:55:25] PHP Parse error:  syntax error, unexpected ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[27-Oct-2014 20:07:12] PHP Parse error:  syntax error, unexpected ')' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[27-Oct-2014 20:14:13] PHP Parse error:  syntax error, unexpected ')' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[27-Oct-2014 20:14:25] PHP Parse error:  syntax error, unexpected $end in /home4/tom/public_html/data/scripts/tweet_finder.php on line 227
+[27-Oct-2014 20:14:59] PHP Parse error:  syntax error, unexpected $end in /home4/tom/public_html/data/scripts/tweet_finder.php on line 227
+[27-Oct-2014 20:15:06] PHP Parse error:  syntax error, unexpected $end in /home4/tom/public_html/data/scripts/tweet_finder.php on line 228
+[27-Oct-2014 20:25:22] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 64
+[27-Oct-2014 20:49:19] PHP Parse error:  syntax error, unexpected T_AS, expecting ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 207
+[27-Oct-2014 20:49:56] PHP Parse error:  syntax error, unexpected '}' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 218
+[30-Oct-2014 12:20:06] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 64
+[30-Oct-2014 12:20:19] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 64
+[03-Nov-2014 13:07:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 64
+[06-Nov-2014 11:03:26] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/tom/public_html/data/scripts/tweet_finder.php on line 137
+[06-Nov-2014 11:03:35] PHP Fatal error:  Call to undefined function  emoji_unified_to_html() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 68
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:03:52] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 11:06:17] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 77
+[06-Nov-2014 13:13:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/tom/public_html/data/scripts/tweet_finder.php on line 75
+[06-Nov-2014 13:13:25] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home4/tom/public_html/data/scripts/tweet_json.php on line 5
+[06-Nov-2014 13:13:34] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home4/tom/public_html/data/scripts/tweet_json.php on line 5
+[06-Nov-2014 13:13:57] PHP Parse error:  syntax error, unexpected '=' in /home4/tom/public_html/data/scripts/tweet_json.php on line 7
+[06-Nov-2014 13:14:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/tom/public_html/data/scripts/tweet_json.php on line 16
+[06-Nov-2014 13:14:08] PHP Parse error:  syntax error, unexpected T_RETURN in /home4/tom/public_html/data/scripts/tweet_json.php on line 22
+[06-Nov-2014 13:14:16] PHP Parse error:  syntax error, unexpected T_RETURN in /home4/tom/public_html/data/scripts/tweet_json.php on line 22
+[06-Nov-2014 14:03:20] PHP Parse error:  syntax error, unexpected '}' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 140
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Warning:  Illegal offset type in /home4/tom/public_html/data/scripts/tweet_finder.php on line 71
+[06-Nov-2014 14:03:39] PHP Fatal error:  Call to undefined function  httppost() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 80
+[06-Nov-2014 14:05:05] PHP Parse error:  syntax error, unexpected ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 75
+[06-Nov-2014 14:10:56] PHP Parse error:  syntax error, unexpected ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 76
+[06-Nov-2014 14:11:52] PHP Fatal error:  Call to undefined function  httppost() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 81
+[06-Nov-2014 14:12:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/tom/public_html/data/scripts/http.php on line 22
+[06-Nov-2014 14:13:09] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/http.php on line 7
+[06-Nov-2014 14:16:39] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 81
+[06-Nov-2014 14:19:02] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/http.php on line 7
+[06-Nov-2014 14:19:36] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/http.php on line 7
+[06-Nov-2014 14:20:02] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/tom/public_html/data/scripts/tweet_finder.php on line 85
+[17-Nov-2014 09:02:56] PHP Parse error:  syntax error, unexpected '<' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 257
+[17-Nov-2014 09:24:27] PHP Parse error:  syntax error, unexpected T_FOREACH in /home4/tom/public_html/data/scripts/tweet_finder.php on line 63
+[17-Nov-2014 09:36:15] PHP Fatal error:  Call to undefined function  twittersearch() in /home4/tom/public_html/data/scripts/results.php on line 44
+[17-Nov-2014 09:36:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/tom/public_html/data/scripts/results.php on line 10
+[17-Nov-2014 09:36:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 85
+[17-Nov-2014 09:54:52] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home4/tom/public_html/data/scripts/tweet_finder.php on line 85
+[17-Nov-2014 10:03:03] PHP Parse error:  syntax error, unexpected '.' in /home4/tom/public_html/data/scripts/results.php on line 90
+[17-Nov-2014 10:03:22] PHP Parse error:  syntax error, unexpected '$' in /home4/tom/public_html/data/scripts/tweet_finder.php on line 22
+[17-Nov-2014 10:09:10] PHP Parse error:  syntax error, unexpected T_RETURN in /home4/tom/public_html/data/scripts/tweet_finder.php on line 100
+[17-Nov-2014 11:14:29] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/tom/public_html/data/scripts/results.php on line 49
+[17-Nov-2014 11:15:48] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/tom/public_html/data/scripts/results.php on line 49
+[17-Nov-2014 11:17:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/results.php on line 84
+[17-Nov-2014 11:17:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/results.php on line 176
+[17-Nov-2014 11:17:10] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/results.php on line 84
+[17-Nov-2014 11:17:10] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/results.php on line 176
+[17-Nov-2014 11:17:12] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/results.php on line 84
+[17-Nov-2014 11:17:12] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/results.php on line 176
+[17-Nov-2014 11:26:02] PHP Warning:  array_keys() [<a href='function.array-keys'>function.array-keys</a>]: The first argument should be an array in /home4/tom/public_html/data/scripts/results.php on line 50
+[17-Nov-2014 11:43:59] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/tom/public_html/data/scripts/results.php on line 115
+[17-Nov-2014 11:44:19] PHP Parse error:  syntax error, unexpected T_ECHO in /home4/tom/public_html/data/scripts/results.php on line 132
+[17-Nov-2014 11:44:38] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/tom/public_html/data/scripts/results.php on line 115
+[17-Nov-2014 11:44:40] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/tom/public_html/data/scripts/results.php on line 115
+[17-Nov-2014 11:44:44] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/tom/public_html/data/scripts/results.php on line 132
+[17-Nov-2014 11:46:29] PHP Parse error:  syntax error, unexpected T_IF in /home4/tom/public_html/data/scripts/results.php on line 116
+[27-Jan-2015 16:44:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[18-Mar-2015 16:37:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[22-May-2015 16:54:11] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[22-May-2015 16:54:19] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[26-May-2015 08:16:03] PHP Fatal error:  Call to undefined function  emoji_unified_to_html() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 33
+[26-May-2015 08:16:22] PHP Fatal error:  Call to undefined function  emoji_unified_to_html() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 33
+[15-Jul-2016 11:46:06] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:46:07] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:47:37] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:47:38] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:47:39] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:47:39] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:47:54] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:15] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:15] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:15] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:45] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:54] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:48:55] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:16] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:23] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31
+[15-Jul-2016 11:49:55] PHP Warning:  Invalid argument supplied for foreach() in /home4/tom/public_html/data/scripts/tweet_finder.php on line 31

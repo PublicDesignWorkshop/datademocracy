@@ -1,0 +1,238 @@
+body{
+	margin: 0 auto !important;
+	display: block !important;
+	font-family: georgia, serif;
+	color: #222;
+	font-style: italic;
+	background-color: #2C58B7;
+}
+#container{
+	width: 950px !important;
+	margin: 0 auto;
+}
+
+#header{
+	font-family: 'Gauge';  
+	font-weight: bold; 
+	font-style: normal; 
+	font-size: 30px;
+	border: 3px solid;
+	border-right: none;
+	border-left: none;
+	border-top-color: #ad2124 !important;
+	border-bottom-color: #3267b1;
+	padding: 10px 0 10px 65px;
+	line-height: 1.1;
+	margin: 0 0 25px 0;
+	background-image: url(./../img/flag.png);
+	background-repeat: no-repeat;
+	background-position: 0 50%;
+	color: #000;
+}
+
+#header a{
+	text-decoration: none;
+	color: #000;
+}
+
+#header span{
+	font-size: 18px;
+	color: #222;
+}
+
+#recommendations{
+	background-color: #30B8EA;
+	min-height: 200px;
+	padding: 20px;
+	margin: 25px 0;
+    color: #FFF;
+    font-size: 1.3em;
+    line-height: 1.8em;
+    font-family: Georgia;
+    font-style: italic;
+}
+
+#recommendations h2{
+	font-size: 36px;
+	text-decoration: none;
+	margin:0;
+	padding: 0;
+}
+
+/*#canvas-holder{
+	background-image: url(./../img/ajax-loader.png);
+	background:transparent;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+*/
+#map {
+	height: 300px; 
+	width: 360px;
+	float:right;
+}
+
+h1, h3{
+	font-size: 18px;
+	font-family: 'Gauge';
+	font-style: normal;
+	text-transform: lowercase;
+	border-bottom: 2px solid inherit;
+	border-bottom-color: #3267b1;
+}
+#pseudobody{
+	background-color: #FFF;
+	padding-bottom: 1.5em;
+	padding-top: 25px;
+}
+
+#tweet_toggle{
+	cursor:pointer;
+}
+
+#tweets{
+	display:none;
+}
+
+ol{
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	-moz-column-count: 3; /* Firefox */
+	column-count: 3;
+	margin: 0 0 0 0 !important;
+	padding: 0 0 0 0 !important;
+	list-style:  none;
+	vertical-align: top;
+}
+
+ol li{
+	margin: 0;
+	font-size: 16px;
+	line-height: 1.4;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #ccc;
+	-webkit-column-break-inside:avoid;
+	-moz-column-break-inside:avoid;
+	-o-column-break-inside:avoid;
+	-ms-column-break-inside:avoid;
+	column-break-inside:avoid;
+}
+
+ol li p.stats{
+	font-size: 12px !important;
+	font-style: normal;
+	margin-top: -8px;
+}
+
+#analysis{
+	position: absolute;
+	top: 100px;
+	margin-left:330px;
+	width: 230px;
+}
+
+#analysis h3{
+	margin:10px 0;
+	padding: 0;
+	border-bottom: 2px solid #3267b1;
+	font-size: 20px;
+}
+
+#analysis h3.right{
+	text-align: right;
+}
+
+#analysis p{
+	width: 220px;
+	margin: 0 0 8px 0;
+}
+
+#analysis p.right{
+	text-align: right;
+}
+
+#analysis p span{
+	font-family: 'helvetica neue', helvetica, arial, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: normal;
+	float:right;
+	margin-top: -2px;
+}
+
+#analysis p span#ana_great{color: #2D60B4;}
+#analysis p span#ana_good{color: #00B8EE;}
+#analysis p span#ana_neutral{color: #aaa;}
+#analysis p span#ana_bad{color: #fa3133;}
+#analysis p span#ana_terrible{color: #BE0002;}
+
+#footer{
+	background-color: transparent;
+	min-height: 100px;
+	color: #fff;
+	font-size: .7em;
+	font-style: normal;
+	font-family: 'helvetica neue', helvetica, sans-serif;
+	text-shadow: -1px -1px 1px #333;
+	
+	padding: 10px;
+	text-align: center;
+	line-height: 1.5em;
+
+	background-position: 0% 100%;
+	background-repeat: repeat-x;
+	width: 100%;
+}
+
+#footer_container{
+	width: 950px;
+	text-align: right;
+	margin: 0 auto;
+}
+
+#footer .logo{
+	float:left;
+	margin: 20px 0 0 0;
+	padding: 0 60px 0 30px;
+	text-align: center;
+	line-height: 2em;
+}
+
+#footer .logo h3{
+	font-family: 'Gauge';  
+	font-weight: bold; 
+	font-style: normal; 
+	font-size: 20px;
+	padding: 0 0 0 40px;
+	margin: 0 0 15px 0;
+	background-image: url(./../img/flag.png);
+	background-size: 35px;
+	background-repeat: no-repeat;
+	background-position: 0 50%;
+	text-align:left;
+	border:none;
+}
+
+#footer a{
+	text-decoration: none;
+	display: inline-block;
+	border-bottom: 1px solid transparent;
+	margin: 10px;
+	color: #fff;
+	padding: 0;
+}
+
+#footer a:hover{
+	border-bottom: 1px solid #30B8EA;
+}
+
+#footer p{
+	text-shadow: none;
+	padding: 8px 8px 0 0;
+	color: #22426f
+}
+
+#footer hr{
+	margin: 3px 0;
+	border-top: 1px solid #22426f;
+	border-bottom: 1px solid #528dde;
+}
